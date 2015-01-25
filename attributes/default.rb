@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: alt-device-ipaddress 
+# Cookbook Name:: alt_device_ipaddress 
 # Attribute:: default
 #
 # Copyright 2015, Michael Proctor-Smith

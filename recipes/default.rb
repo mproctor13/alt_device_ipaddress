@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: alt_device-_paddress
+# Cookbook Name:: alt_device_paddress
 # Recipe:: default
 #
 # Author:: Michael Proctor-Smith (<mproctor13@gmail.com>)

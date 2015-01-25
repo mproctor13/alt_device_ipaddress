@@ -1,5 +1,6 @@
 alt_device_ipaddress Cookbook
 =============
+
 Chef cookbook to set node[:ipaddress] to ipaddress of a device other then the default device using ohai plugin.
 
 Attributes
